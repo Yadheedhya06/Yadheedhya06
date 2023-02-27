@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yadheedhya
 #### I am senior undergradutae
-![I am senior undergradutae](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am senior undergradutae](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.bit.ai%2Fembed-github%2F&psig=AOvVaw0iUOQnRAO4DkzqXoPzN1pX&ust=1677579717024000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjVnsy9tf0CFQAAAAAdAAAAABAE)
 
 With excellent problem-solving skills and the ability to perform well in a team. Passionate about coding and core computer science topics and enjoys reading and writing blogs. Quick Tech Learner.
 
