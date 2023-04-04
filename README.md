@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadheedhya06&label=Profile%20views&color=0e75b6&style=flat" alt="yadheedhya06" /> </p>
 
-- 🔭 I’m currently working on **Software defect prediction on imbalanced data with interpretable machine learning**
+- 🔭 I’m currently working on **IQ GPT which is AI Search Engine based on word embeddings and OpenAI models**
 
-- 🌱 I’m currently learning **C4.5, RIPPER, Flask**
+- 🌱 I’m currently learning **Langchain, Vector Database, OpenAI embeddings**
 
 - 👯 I’m looking to collaborate on **ML and AI projects**
 
