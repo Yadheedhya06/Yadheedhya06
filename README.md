@@ -8,13 +8,11 @@
 
 - 👯 I’m looking to collaborate on **ML and AI projects**
 
-- 👨‍💻 All of my projects are available at [https://yadheedhya.devfolio.io/](https://yadheedhya.devfolio.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://yadheedhya.devfolio.io/](https://yadheedhya.devfolio.io/) -->
 
 - 💬 Ask me about **Data science and ML**
 
 - 📫 How to reach me **yadheedhya6@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10lElcTr5ur-CTWLod-YnR7wksKGXgwFX/view?usp=share_link](https://drive.google.com/file/d/10lElcTr5ur-CTWLod-YnR7wksKGXgwFX/view?usp=share_link)
 
 - ⚡ Fun fact **I'm not sarcastic. I mean it**
 
