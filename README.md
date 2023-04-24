@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data science and ML**
 
-- 📫 How to reach me **yadheedhya6@gmail.com**
+- 📫 How to reach me **yadheedhya@braindao.org**
 
 - ⚡ Fun fact **I'm not sarcastic. I mean it**
 
