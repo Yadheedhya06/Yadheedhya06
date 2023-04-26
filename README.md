@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **IQ GPT which is AI Search Engine based on word embeddings and OpenAI models**
 
-- 🌱 I’m currently learning **Langchain, Vector Database, OpenAI embeddings**
+- 🌱 I’m currently learning **Langchain, Vector Database, OpenAI embeddings, Semantic Search**
 
 - 👯 I’m looking to collaborate on **ML and AI projects**
 
