@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **ML and AI projects**
 
-<!-- - 👨‍💻 All of my projects are available at [https://yadheedhya.devfolio.io/](https://yadheedhya.devfolio.io/) -->
+<!-- - 👨‍💻 All of my projects are available at [[[https://yadheedhya.devfolio.io/](https://github.com/Yadheedhya06?tab=repositories)](https://github.com/Yadheedhya06?tab=repositories)](https://yadheedhya.devfolio.io/) -->
 
 - 💬 Ask me about **Data science and ML**
 
