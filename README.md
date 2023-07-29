@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadheedhya06&label=Profile%20views&color=0e75b6&style=flat" alt="yadheedhya06" /> </p>
 
-- 🔭 I’m currently working on **IQ GPT which is semantic AI Search Engine powered by word embeddings and OpenAI LLMs**
+- 🔭 I’m currently working on **IQ GPT which is semantic AI Search Engine powered by word embeddings, rest APIs and OpenAI LLMs**
 
 - 🌱 I’m currently learning **Langchain, Vector Database, Custom Vector embedding mechanisms**
 
