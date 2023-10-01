@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yadheedhya</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadheedhya06&label=Profile%20views&color=0e75b6&style=flat" alt="yadheedhya06" /> </p>
-
 # 💫 About Me:
 
 - 🔭 I’m currently contributing to **IQ GPT** an AI Search Engine tailored for crypto and will make it easier to query news, live data, and crypto concepts
