@@ -3,8 +3,10 @@
 # 💫 About Me:
 
 - 🔭 I’m currently contributing to **IQ GPT** an AI Search Engine tailored for crypto and will make it easier to query news, live data, and crypto concepts
+  
+- 🔭 I’m currently contributing to **IQ ATP** an agent tokenization platform that created Agents on Fraxtal chain and are autonomously integrated to Socials
 
-- 🌱 I’m currently mastering **Langchain, Vector Database, Custom Vector embedding mechanisms**
+- 🌱 I’m currently mastering **Eliza, Agentic Frameworks, on-chain AI inference**
 
 - 👯 I’m looking to collaborate on **ML and AI projects**
 
