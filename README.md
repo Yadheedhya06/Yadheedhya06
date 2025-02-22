@@ -2,15 +2,15 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently contributing to **IQ GPT** an AI Search Engine tailored for crypto and will make it easier to query news, live data, and crypto concepts
+- 🔭 Currently focused on developing decentralized trading Agents in Pear Protocol and on-chain AI inference systems for crypto.
   
-- 🔭 I’m currently contributing to **IQ ATP** an agent tokenization platform that created Agents on Fraxtal chain and are autonomously integrated to Socials
+- 🔭 I’m currently contributing to **Pear Agent** an agent that performs autonomous Pair Trading on Pear Protocol with blackbox Strategy by team
 
-- 🌱 I’m currently mastering **Eliza, Agentic Frameworks, on-chain AI inference**
+- 🌱 Deeply engaged in mastering agentic frameworks, on-chain AI inference and DeFi Protocols
 
-- 👯 I’m looking to collaborate on **ML and AI projects**
+- 👯  Always eager to collaborate on innovative ML, AI, and blockchain projects.
 
-- 💬 Ask me about **Data science and ML**
+- 💬 Ask me about AI and advanced blockchain solutions.
 
 - ⚡ Fun fact **I'm not sarcastic. I mean it**
 
